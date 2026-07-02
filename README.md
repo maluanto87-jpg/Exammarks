@@ -2,7 +2,7 @@
 
 A web app that predicts a student's exam marks from their study habits, using a Polynomial Regression model. Built with **Streamlit** and **scikit-learn**.
 
-🔗 **Live demo:**
+🔗 **Live demo:**https://exammarks-grjavpvbwx78fwkvurzcnu.streamlit.app/
 
 ---
 
